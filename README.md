@@ -1,16 +1,24 @@
-## Hi there 👋
+# HI, Matthew Here 😎
 
-<!--
-**AvilS-PL/AvilS-PL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About.me
+My full name is Mateusz Śliwa and I'm currently studying **Computer Science** at **AGH University of Cracow**. I started coding a bit before my studies, and I've been creating projects ever since. Aside from that I like to tinker with electronics (mostly ESP-32 related) and edit videos for my friends.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+### Languages
+- 🟢 **Comfortable with:**
+  - JavaScript
+  - GDscript
+  - Python
+- 🟡 **Familiar with / Currently Learning:**
+  - TypeScript
+  - Java
+  - C++
+- ⚪ **Basic knowledge of:**
+  - Erlang
+  - Elixir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- 🟡 **Familiar with / Currently Learning:**
+  - Express.js
+  - React
+  - React Native
